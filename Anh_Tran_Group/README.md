@@ -9,16 +9,27 @@ Anh Tran Group is a rapidly growing Software-as-a-Service (SaaS) company that ha
 2. Company Profile
 
 Company Name: Anh Tran Group, Inc. 
+
 Headquarters: Portland, Oregon, USA 
+
 Founded: January 2018 (7 years in operation) 
+
 Industry: Software as a Service (SaaS) - Project Management 
+
 Primary Product: CloudFlow - Cloud-based project management platform 
+
 Company Size: 85 employees total 
+
 Portland HQ: 60 employees (Engineering, Product, Executive, HR, Finance) 
+
 Austin Office: 10 employees (Customer Support & Success) 
+
 Remote Workers: 15 employees (Sales, Marketing, Engineering) 
+
 Annual Revenue: $12M (FY 2025), projected $15M (FY 2026) 
+
 Customer Base: ~450 companies across tech, healthcare, manufacturing, services 
+
 Data Handled: Customer business data, user credentials, payment info, project files 
 
 3. The CloudFlow Product
